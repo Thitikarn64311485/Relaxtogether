@@ -1,6 +1,6 @@
 body {
     margin-top: 0;
-    /*background-image: url(d:\พื้นหลังปก.gif);
+    /*background-image: url(Photo/พื้นหลังปก.gif);
     background-size:1878px 840px;*/
     background: fixed;
     background-color: #FFFFFF;
@@ -17,7 +17,7 @@ body {
   border-radius: 6px; /* กำหนดรูปทรงให้เป็นวงกลม */
   /*box-shadow: 4px 0px 6px 2px rgba(0, 0, 0, 0.2),0px 0px 7px 0px rgba(0, 0, 0, 0.2);*/
   box-shadow: 4px 1px 2px rgba(0, 0, 0, 0.3),2px 0px 4px rgba(123, 120, 120, 0.3);
-  background-image: url(d:\ปกหญิง1.gif);
+  background-image: url(Photo/ปกหญิง1.gif);
   background-size: 250px 726px;
 }
 .body2{
@@ -31,7 +31,7 @@ body {
   border-radius: 6px; /* กำหนดรูปทรงให้เป็นวงกลม */
   /*box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.2); /* เพิ่มเงาให้กับรูปภาพทรง */
   box-shadow: 2px 1px 2px rgba(0, 0, 0, 0.3),2px 0px 2px rgba(123, 120, 120, 0.3);
-  background-image: url(d:\พื้นหลัง2.gif);
+  background-image: url(Photo/พื้นหลัง2.gif);
   background-size: 622px 322px;
 }
 .body3{
@@ -44,7 +44,7 @@ body {
   z-index: -1; /* กำหนดให้รูปภาพทรงอยู่ด้านหลังของข้อมูล */
   border-radius: 6px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 2px 1px 2px rgba(0, 0, 0, 0.3),2px 0px 2px rgba(123, 120, 120, 0.3);
-  background-image: url(d:\พื้นหลัง2.gif);
+  background-image: url(Photo/พื้นหลัง2.gif);
   background-size: 615px 410px;
 }
 .body4{
@@ -57,7 +57,7 @@ body {
   z-index: -1; /* กำหนดให้รูปภาพทรงอยู่ด้านหลังของข้อมูล */
   border-radius: 6px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 2px 1px 2px rgba(0, 0, 0, 0.3),2px 0px 2px rgba(123, 120, 120, 0.3);
-  background-image: url(d:\พื้นหลัง3.gif);
+  background-image: url(Photo/พื้นหลัง3.gif);
   background-size:269px 400px;
 }
 .body5{
@@ -70,7 +70,7 @@ body {
   z-index: -1; /* กำหนดให้รูปภาพทรงอยู่ด้านหลังของข้อมูล */
   border-radius:6px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 2px 1px 2px rgba(0, 0, 0, 0.3),2px 0px 2px rgba(123, 120, 120, 0.3);
-  background-image: url(d:\ปกชายใหม่.gif);
+  background-image: url(Photo/ปกชายใหม่.gif);
   background-size: 250px 726px;
 }
 .body6{
@@ -83,7 +83,7 @@ body {
   z-index: -1; /* กำหนดให้รูปภาพทรงอยู่ด้านหลังของข้อมูล */
   border-radius: 6px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 3px 1px 2px rgba(0, 0, 0, 0.3),2px 0px 2px rgba(123, 120, 120, 0.3);
-  background-image: url(d:\พื้นหลังเกนชิน.gif);
+  background-image: url(Photo/พื้นหลังเกนชิน.gif);
   background-size: 367px 280px;
 }
 .body7{
@@ -95,7 +95,7 @@ body {
   z-index: -1; /* กำหนดให้รูปภาพทรงอยู่ด้านหลังของข้อมูล */
   border-radius: 6px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 3px 1px 2px rgba(0, 0, 0, 0.3),2px 0px 2px rgba(123, 120, 120, 0.3);
-  background-image: url(d:\ปกเกนชิ้นท้าย.gif);
+  background-image: url(Photo/ปกเกนชิ้นท้าย.gif);
   background-size: 367px 445px;
   outline: none;
   position: absolute;
