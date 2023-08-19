@@ -70,7 +70,7 @@ body {
   z-index: -1; /* กำหนดให้รูปภาพทรงอยู่ด้านหลังของข้อมูล */
   border-radius:6px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 2px 1px 2px rgba(0, 0, 0, 0.3),2px 0px 2px rgba(123, 120, 120, 0.3);
-  background-image: url(Photo/การ์ดชายแต่งแล้ว.gif);
+  background-image: url(Photo/ปกชายใหม่.gif);
   background-size: 250px 726px;
 }
 .body6{
@@ -494,7 +494,7 @@ img{
   } 
   .cute-box {
     background-color: #e5a4bf;
-    background-image: url(d:\พื้นหลัง.gif);
+    background-image: url(Photo/พื้นหลัง.gif);
     width:310px;
     height: 170px;
     border-radius: 12px;
@@ -609,7 +609,7 @@ img{
   .divider {
     width: 100.5%;
     height: 19px; /* ความสูงของที่คั่น */
-    background-image: url(d:\ที่คั่นพื้นหลังขาว.gif); /* สีของที่คั่น */
+    background-image: url(Photo/ที่คั่นพื้นหลังขาว.gif); /* สีของที่คั่น */
     background-size:cover;
     margin-top:140px;
     border-radius: 4px;
