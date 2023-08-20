@@ -917,7 +917,7 @@ button:hover {
 .st{
   font-size: 12px;
   font-family: impact;
-  margin-top: 20px;
+  margin-top: 40px;
   margin-left: 690px;
   font-weight: lighter;
   letter-spacing: 0.7px;
@@ -926,7 +926,7 @@ button:hover {
   position: absolute;
 }
 .logo{
-  margin-top: -170px;
+  margin-top: -200px;
   margin-left: 710px;
 }
 .body33{
