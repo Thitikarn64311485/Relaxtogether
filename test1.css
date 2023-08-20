@@ -27,14 +27,14 @@ body {
     z-index: -1; /* กำหนดให้รูปภาพทรงอยู่ด้านหลังของข้อมูล */
     border-radius: 12px; /* กำหนดรูปทรงให้เป็นวงกลม */
     box-shadow: 0px 0px 3px 0px rgba(255, 255, 255, 0.3);
-    background-image: url(d:\พื้นขอบ.gif);
+    background-image: url(Photo/พื้นขอบ.gif);
     background-size: 1640px 72px;
     
 }
 .photo{
     width: 45px;
     height: 45px;
-    background-image: url(d:\โลโก้ใหม่.png);
+    background-image: url(Photo/โลโก้ใหม่.png);
     background-size: 45px 45px;
     box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
     color: #fff;
@@ -52,7 +52,7 @@ body {
   position: absolute;
   width: 50px;
   height: 50px;
-  background-image: url(d:\ปุ่มถัดไป.gif);
+  background-image: url(Photo/ปุ่มถัดไป.gif);
   background-size: 50px 50px;
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
   color: #fff;
@@ -75,7 +75,7 @@ body {
   position: absolute;
   width: 50px;
   height: 50px;
-  background-image: url(d:\โลโก้ใหม่.png);
+  background-image: url(Photo/โลโก้ใหม่.png);
   background-size: 50px 50px;
   box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.3);
   color: #fff;
@@ -98,7 +98,7 @@ body {
   position: absolute;
   width: 50px;
   height: 50px;
-  background-image: url(d:\ปุ่มถัดไป.gif);
+  background-image: url(Photo/ปุ่มถัดไป.gif);
   background-size: 50px 50px;
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
   color: #fff;
@@ -121,7 +121,7 @@ body {
   position: absolute;
   width: 50px;
   height: 50px;
-  background-image: url(d:\ปุ่มถัดไป.gif);
+  background-image: url(Photo/ปุ่มถัดไป.gif);
   background-size: 50px 50px;
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
   color: #fff;
@@ -144,7 +144,7 @@ body {
   position: absolute;
   width: 50px;
   height: 50px;
-  background-image: url(d:\ปุ่มถัดไป.gif);
+  background-image: url(Photo/ปุ่มถัดไป.gif);
   background-size: 50px 50px;
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
   color: #fff;
@@ -191,7 +191,7 @@ body {
     transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */ /* กำหนดให้รูปภาพทรงอยู่ด้านหลังของข้อมูล */
     border-radius: 16px; /* กำหนดรูปทรงให้เป็นวงกลม */
     box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
-    background-image: url(d:\ปกใหม่.gif);
+    background-image: url(Photo/ปกใหม่.gif);
     background-size: 300px 200px;
     transition: transform 0.4s ease;
     animation: moveUpDown 2s linear infinite alternate;
@@ -216,7 +216,7 @@ body {
     z-index: -1; /* กำหนดให้รูปภาพทรงอยู่ด้านหลังของข้อมูล */
     border-radius:20px; /* กำหนดรูปทรงให้เป็นวงกลม */
     box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
-    background-image: url(d:\เครื่องดื่ม.gif);
+    background-image: url(Photo/เครื่องดื่ม.gif);
     background-size: 200px 180px;
 }
 .bodyk1{
@@ -314,7 +314,7 @@ body {
 .cat{
   width: 50px;
   height: 50px;
-  background-image: url(d:\โลโก้ใหม่.png);
+  background-image: url(Photo/โลโก้ใหม่.png);
   background-size: 50px 50px;
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
   color: #fff;
@@ -339,7 +339,7 @@ body {
     z-index: -1; /* กำหนดให้รูปภาพทรงอยู่ด้านหลังของข้อมูล */
     border-radius: 12px; /* กำหนดรูปทรงให้เป็นวงกลม */
     box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.3);
-    background-image: url(d:\ที่คั่นหนังสือ.gif);
+    background-image: url(Photo/ที่คั่นหนังสือ.gif);
     background-size: 100px 600px;
     border:2px solid #fffdfe;
 }
@@ -353,7 +353,7 @@ body {
     z-index: -1; /* กำหนดให้รูปภาพทรงอยู่ด้านหลังของข้อมูล */
     border-radius: 22px; /* กำหนดรูปทรงให้เป็นวงกลม */
     box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
-    background-image: url(d:\อาหารgif.gif);
+    background-image: url(Photo/อาหารgif.gif);
     background-size: 200px 180px;
 }
 .body5{
@@ -366,7 +366,7 @@ body {
     z-index: -1; /* กำหนดให้รูปภาพทรงอยู่ด้านหลังของข้อมูล */
     border-radius: 22px; /* กำหนดรูปทรงให้เป็นวงกลม */
     box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
-    background-image: url(d:\ผ่อนคลาย.gif);
+    background-image: url(Photo/ผ่อนคลาย.gif);
     background-size: 200px 180px;
 }
 .body6{
@@ -379,7 +379,7 @@ body {
     z-index: -1; /* กำหนดให้รูปภาพทรงอยู่ด้านหลังของข้อมูล */
     border-radius: 22px; /* กำหนดรูปทรงให้เป็นวงกลม */
     box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
-    background-image: url(d:\ท่องเที่ยว.gif);
+    background-image: url(Photo/ท่องเที่ยว.gif);
     background-size: 200px 180px;
 }
 .body7{
@@ -391,7 +391,7 @@ body {
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 22px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
-  background-image: url(d:\ชินจังใหม่.png);
+  background-image: url(Photo/ชินจังใหม่.png);
   background-size: 90px 90px;
   cursor: pointer;
   outline: none;
@@ -412,7 +412,7 @@ body {
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 22px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
-  background-image: url(d:\ชินจังกิน2.png);
+  background-image: url(Photo/ชินจังกิน2.png);
   background-size: 90px 90px;
   cursor: pointer;
   outline: none;
@@ -433,7 +433,7 @@ body {
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 22px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.3);
-  background-image: url(d:\ชินจังกิน3.png);
+  background-image: url(Photo/ชินจังกิน3.png);
   background-size: 90px 90px;
   cursor: pointer;
   outline: none;
@@ -454,7 +454,7 @@ body {
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 22px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
-  background-image: url(d:\เนเน่.png);
+  background-image: url(Photo/เนเน่.png);
   background-size: 90px 90px;
   cursor: pointer;
   outline: none;
@@ -593,7 +593,7 @@ h3{
   .circle {
     width: 70px;
     height: 70px;
-    background-image: url(d:\แถบเมนูกลมแรก.png);
+    background-image: url(Photo/แถบเมนูกลมแรก.png);
     background-size: 70px 70px;
     box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
     color: #fff;
