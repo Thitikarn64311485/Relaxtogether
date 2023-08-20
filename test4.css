@@ -157,7 +157,7 @@ body{
     transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
     border-radius: 32px; /* กำหนดรูปทรงให้เป็นวงกลม */
     box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.3);
-    background-image: url(d:\ออกกำลังกาย.png);
+    background-image: url(Photo/ออกกำลังกาย.png);
     background-size: 650px 390px;
 }
 .body4{
@@ -169,7 +169,7 @@ body{
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 32px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
-  background-image: url(d:\สมาธิ.png);
+  background-image: url(Photo/สมาธิ.png);
   background-size: 650px 390px;
 }
 .body5{
@@ -181,7 +181,7 @@ body{
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 32px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
-  background-image: url(d:\เล่นโยคะ.png);
+  background-image: url(Photo/เล่นโยคะ.png);
   background-size: 650px 390px;
 }
 .body6{
@@ -193,7 +193,7 @@ body{
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 32px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
-  background-image: url(d:\หนัง.png);
+  background-image: url(Photo/หนัง.png);
   background-size: 650px 390px;
 }
 .body7{
@@ -205,7 +205,7 @@ body{
   transform: translate(-50%, -80%); 
   border-radius: 32px;  
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
-  background-image: url(d:\วาดรูป.png);
+  background-image: url(Photo/วาดรูป.png);
   background-size: 650px 390px;
 }
 .body8{
@@ -217,7 +217,7 @@ body{
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 32px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
-  background-image: url(d:\ฟังเพลง.png);
+  background-image: url(Photo/ฟังเพลง.png);
   background-size: 650px 390px;
 }
 .body9{
@@ -229,7 +229,7 @@ body{
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 32px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
-  background-image: url(d:\เล่นดนตรี.png);
+  background-image: url(Photo/เล่นดนตรี.png);
   background-size: 650px 390px;
 }
 .body10{
@@ -241,7 +241,7 @@ body{
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 32px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 0px 0px 4px 0px rgba(63, 63, 63, 0.3);
-  background-image: url(d:\เล่นเกม.png);
+  background-image: url(Photo/เล่นเกม.png);
   background-size: 650px 390px;
 }
 .body11{
@@ -414,7 +414,7 @@ body{
   right: -9.5%; /* แนวนอนของตำแหน่งรูปภาพทรง */
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 90px 18px 6px 6px; /* กำหนดรูปทรงให้เป็นวงกลม */
-  background-image: url(d:\การ์ตูน.png);
+  background-image: url(Photo/การ์ตูน.png);
   background-size: 390px 600px;
   border:8px solid #ffffff;
   box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.3);
@@ -427,7 +427,7 @@ body{
   right: 22%; /* แนวนอนของตำแหน่งรูปภาพทรง */
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 20px; /* กำหนดรูปทรงให้เป็นวงกลม */
-  background-image: url(d:\ผัดไทย.png);
+  background-image: url(Photo/ผัดไทย.png);
   background-size: 70px 70px;
   border:4px solid #ffffff;
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
@@ -445,7 +445,7 @@ body{
   right: 16%; /* แนวนอนของตำแหน่งรูปภาพทรง */
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 20px; /* กำหนดรูปทรงให้เป็นวงกลม */
-  background-image: url(d:\อาหารญี่ปุ่น.png);
+  background-image: url(Photo/อาหารญี่ปุ่น.png);
   background-size: 70px 70px;
   border:4px solid #ffffff;
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
@@ -463,7 +463,7 @@ body{
   right: 8%; /* แนวนอนของตำแหน่งรูปภาพทรง */
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 20px; /* กำหนดรูปทรงให้เป็นวงกลม */
-  background-image: url(d:\อาหารเกาหลี.png);
+  background-image: url(Photo/อาหารเกาหลี.png);
   background-size: 70px 70px;
   border:4px solid #ffffff;
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
@@ -481,7 +481,7 @@ body{
   right: 2%; /* แนวนอนของตำแหน่งรูปภาพทรง */
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 20px; /* กำหนดรูปทรงให้เป็นวงกลม */
-  background-image: url(d:\อาหาร1.png);
+  background-image: url(Photo/อาหาร1.png);
   background-size: 70px 70px;
   border:4px solid #ffffff;
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
@@ -540,7 +540,7 @@ body{
 .circle {
   width: 70px;
   height: 70px;
-  background-image: url(d:\แถบเมนูกลมแรก.png);
+  background-image: url(Photo/แถบเมนูกลมแรก.png);
   background-size: 70px 70px;
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
   color: #fff;
@@ -602,7 +602,7 @@ body{
 .circle2 {
   width: 40px;
   height: 40px;
-  background-image: url(d:\โลโก้ท้าย.gif);
+  background-image: url(Photo/โลโก้ท้าย.gif);
   background-size: 40px 40px;
   box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.3);
   color: #fff;
@@ -623,7 +623,7 @@ body{
 .circle3 {
   width: 35px;
   height: 35px;
-  background-image: url(d:\โปรไฟล์เนเน่.png);
+  background-image: url(Photo/โปรไฟล์เนเน่.png);
   background-size: 35px 35px;
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
   color: #fff8f8;
@@ -818,7 +818,7 @@ body{
 .circle4 {
   width: 70px;
   height: 70px;
-  background-image: url(d:\ปุ่มย้อนกลับ.gif);
+  background-image: url(Photo/ปุ่มย้อนกลับ.gif);
   background-size: 70px 70px;
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
   color: #fff8f8;
@@ -839,7 +839,7 @@ body{
 .circle5 {
   width: 70px;
   height: 70px;
-  background-image: url(d:\ปุ่มถัดไป.gif);
+  background-image: url(Photo/ปุ่มถัดไป.gif);
   background-size: 70px 70px;
   box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.3);
   color: #fff8f8;
@@ -860,7 +860,7 @@ body{
 .circle6 {
   width: 50px;
   height: 50px;
-  background-image: url(d:\ta.png);
+  background-image: url(Photo/ta.png);
   background-size: 50px 50px;
   box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.3);
   color: #fff8f8;
@@ -899,7 +899,7 @@ button:hover {
   right: 94.5%; /* แนวนอนของตำแหน่งรูปภาพทรง */
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 8px; /* กำหนดรูปทรงให้เป็นวงกลม */
-  background-image:url(d:\ที่คั่นใหม่.gif);
+  background-image:url(Photo/ที่คั่นใหม่.gif);
   background-size: 100px 500px;
   box-shadow: 2px 2px 2px 0px rgba(102, 101, 101, 0.3);
 }
@@ -938,7 +938,7 @@ button:hover {
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 1px 1px 4px 4px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 0px 0px 0px 0px rgba(48, 48, 48, 0.3);
-  background-image: url(d:\ขอบล่างใหม่.png);
+  background-image: url(Photo/ขอบล่างใหม่.png);
   background-size: 1503px 70px;
 }
 .p27{
