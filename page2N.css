@@ -931,7 +931,7 @@ button:hover {
   margin-left: 690px;
 }
 .body33{
-  position: absolute;
+  /*position: absolute;*/
   width: 1503px; /* กำหนดขนาดของรูปภาพทรง */
   height: 50px; /* กำหนดขนาดของรูปภาพทรง */
   top:50%; /* แนวตั้งของตำแหน่งรูปภาพทรง */
