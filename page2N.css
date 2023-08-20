@@ -934,8 +934,8 @@ button:hover {
   position: absolute;
   width: 1503px; /* กำหนดขนาดของรูปภาพทรง */
   height: 50px; /* กำหนดขนาดของรูปภาพทรง */
-  top:400%; /* แนวตั้งของตำแหน่งรูปภาพทรง */
-  right: -763.3%; /* แนวนอนของตำแหน่งรูปภาพทรง */
+  top:50%; /* แนวตั้งของตำแหน่งรูปภาพทรง */
+  right: -63.3%; /* แนวนอนของตำแหน่งรูปภาพทรง */
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 1px 1px 4px 4px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 0px 0px 0px 0px rgba(48, 48, 48, 0.3);
@@ -979,7 +979,7 @@ button:hover {
   transform: translateY(-3px);
 }
 .tt{
-  margin-left: 400px;
+  margin-left: 1400px;
   margin-top: 18px;
   font-size: 12px;
   color: #2f2e2e;
