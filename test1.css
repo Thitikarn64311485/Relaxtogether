@@ -703,7 +703,7 @@ h3{
   border:2px solid #fffcfc;
   border-radius: 800px 0px 0px 800px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.3);
-  background-image: url(d:\pngegg.png);
+  background-image: url(Photo/pngegg.png);
   background-size: 300px 720px;
   transition: transform 0.8s ease;
   animation: moveUpDown 1s linear infinite alternate;
