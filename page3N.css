@@ -935,13 +935,16 @@ button:hover {
 .body33{
   width: 1503px; /* กำหนดขนาดของรูปภาพทรง */
   height: 50px; /* กำหนดขนาดของรูปภาพทรง */
-  top:357%; /* แนวตั้งของตำแหน่งรูปภาพทรง */
-  right: -763.3%; /* แนวนอนของตำแหน่งรูปภาพทรง */
+  top:397%; /* แนวตั้งของตำแหน่งรูปภาพทรง */
+  right: -793.3%; /* แนวนอนของตำแหน่งรูปภาพทรง */
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 1px 1px 4px 4px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 0px 0px 0px 0px rgba(48, 48, 48, 0.3);
   background-image: url(Photo/ขอบล่างใหม่.png);
   background-size: 1503px 70px;
+  outline: none;
+  position: absolute;
+  overflow: hidden;
 }
 .p27{
   margin-top: -40px;
