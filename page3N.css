@@ -916,7 +916,7 @@ button:hover {
 .st{
   font-size: 12px;
   font-family: impact;
-  margin-top: 50px;
+  margin-top: 20px;
   margin-left: 690px;
   font-weight: lighter;
   letter-spacing: 0.7px;
@@ -926,7 +926,7 @@ button:hover {
   overflow: hidden;
 }
 .logo{
-  margin-top: -180px;
+  margin-top: -150px;
   margin-left: 710px;
   outline: none;
   position: absolute;
@@ -936,7 +936,7 @@ button:hover {
   width: 1503px; /* กำหนดขนาดของรูปภาพทรง */
   height: 50px; /* กำหนดขนาดของรูปภาพทรง */
   top:397%; /* แนวตั้งของตำแหน่งรูปภาพทรง */
-  right: -793.3%; /* แนวนอนของตำแหน่งรูปภาพทรง */
+  right: -808.3%; /* แนวนอนของตำแหน่งรูปภาพทรง */
   transform: translate(-50%, -80%); /* จัดให้รูปภาพทรงอยู่ตรงกลางของหน้าจอ */
   border-radius: 1px 1px 4px 4px; /* กำหนดรูปทรงให้เป็นวงกลม */
   box-shadow: 0px 0px 0px 0px rgba(48, 48, 48, 0.3);
