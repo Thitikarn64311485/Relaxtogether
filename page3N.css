@@ -916,7 +916,7 @@ button:hover {
 .st{
   font-size: 12px;
   font-family: impact;
-  margin-top: 10px;
+  margin-top: 50px;
   margin-left: 690px;
   font-weight: lighter;
   letter-spacing: 0.7px;
@@ -926,7 +926,7 @@ button:hover {
   overflow: hidden;
 }
 .logo{
-  margin-top: -110px;
+  margin-top: -180px;
   margin-left: 710px;
   outline: none;
   position: absolute;
@@ -944,7 +944,6 @@ button:hover {
   background-size: 1503px 70px;
   outline: none;
   position: absolute;
-  overflow: hidden;
 }
 .p27{
   margin-top: -40px;
